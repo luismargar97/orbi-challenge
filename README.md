@@ -25,3 +25,6 @@ A continuacion se explica la estructura del proyecto, en la carpeta `lib` se ten
 - Ordenación de pokemons como se fue requerido en el apartado opcional.
 - Icon app
 - Splash screen
+
+https://user-images.githubusercontent.com/124298061/233803585-14b17ba7-3c29-4e91-ad35-a40464fde0c4.mov
+
